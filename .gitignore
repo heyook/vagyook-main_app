@@ -14,7 +14,9 @@
 /log/*.log
 /tmp
 
-/config/database.yml
+config/database.yml
 .env
 .rbenv-vars
 vagrant_dns.log
+vendor/bundle/
+bin/
